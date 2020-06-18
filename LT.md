@@ -1,5 +1,6 @@
 ---
 theme: "black"
+transition: "slide"
 title: "shizuoka.php online #0 LT WSL2でPHPを体験してみた話"
 ---
 
@@ -17,7 +18,7 @@ shizuoka.php online #0 LT
 
 - 静岡県富士市在住
 - Pythonの勉強会とかによくいます
-  - shizuoka.py
+  - `shizuoka.py
   - Unagi.py
   - Python駿河（結構います）
 
