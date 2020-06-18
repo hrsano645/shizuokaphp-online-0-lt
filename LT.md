@@ -30,9 +30,9 @@ Python駿河/Unagi.py は20日なので、ぜひご参加を！
 
 ---
 
-もくもく会なのでぶっちゃけPython関係無くてもよいですｗ
+もくもく会なのでぶっちゃけ<br />Python関係無くてもよいですｗ
 
-もくもくしたい人は、一緒にもくもくしましょう。
+もくもくしたい人は一緒にもくもく<br />しましょう。
 
 ---
 
@@ -44,20 +44,25 @@ Python駿河/Unagi.py は20日なので、ぜひご参加を！
 
 ---
 
-年末に 4Kディスプレイを自室(仕事部屋)に導入
+4Kディスプレイを自室（仕事部屋）に導入
 
 ---
 
-<4k ディスプレイの画像>
+![<4k ディスプレイの画像>](./img/slideimg_0.jpg)
 
 ---
 
 MBP2016だと4Kディスプレイでの作業きつすぎる。。
 
-Youtube開くとコマ送りだし。。
+YouTube開くとコマ送りだし。。
 
-MBP 16インチつよつよ構成は高いし。。。
+---
+
+MBP 16インチつよつよ構成は高いし...<br />
 (400k Yen超えるし)
+
+
+![<4k ディスプレイの画像>](./img/slideimg_5.png)
 
 ---
 
@@ -88,17 +93,19 @@ Windows Subsystem for Linu2（WSL2）
 
 ---
 
-WSL2が正式版になったので、インストールして使ってみよう
+WSL2が正式版になったので<br>
+インストールして使ってみよう
 
 ---
 
-shizuoka.phpなのでlaravelのインストールまでやってみよう
+shizuoka.phpなので<br>
+laravelのインストールまでやってみよう
 
 ---
 
 やった作業
 
-- Windows 10 2004へアップデート
+- **Windows 10 2004へアップデートが前提**
 - WSL2のセットアップ
 - LEMP, Laravelのセットアップ
 
@@ -106,7 +113,9 @@ shizuoka.phpなのでlaravelのインストールまでやってみよう
 
 WSL2のセットアップ:ここ見れば普通にできます。
 
--> 
+-> [Windows Subsystem for Linux (WSL) を Windows 10 にインストールする | Microsoft Docs](https://docs.microsoft.com/ja-jp/windows/wsl/install-win10)
+
+さらにわかりやすい -> [WSL2導入｜WinアップデートからWSL2を既定にするまでのスクショ - Qiita](https://qiita.com/tomokei5634/items/27504849bb4353d8fef8)
 
 今後はカーネルの提供がWindows Update経由になる話があるので、ちょっと変わるかも？
 
@@ -182,7 +191,6 @@ $ ip a
        valid_lft forever preferred_lft forever
 ```
 
-
 ---
 
 ### Tips:WSL2のサービス設定
@@ -191,7 +199,8 @@ $ ip a
 
 - init.dっぽい: serviceコマンドが通りました
 
-（ググるとWSLの時代からsystemdは動かない状態らしい -> https://github.com/microsoft/WSL/issues/994）
+（ググるとWSLの時代からsystemdは動かない状態らしい<br />
+ -> https://github.com/microsoft/WSL/issues/994 ）
 
 ---
 
@@ -250,5 +259,20 @@ WSL2とVSCodeで快適開発環境を目指そう！
 （Remote-Containerも便利だと思われます）
 
 ---
+
+おまけ2
+
+---
+
+大きい画面を手に入れたら、PowerToysのFancyZoneを設定しよう！
+
+[microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
+
+---
+
+![windows terminal](./img/slideimg_6.jpg)
+
+---
+
 
 終わり
