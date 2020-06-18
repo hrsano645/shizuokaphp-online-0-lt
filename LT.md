@@ -17,6 +17,7 @@ shizuoka.php online #0 LT
 佐野浩士 twitter@hrs_sano645
 
 - 静岡県富士市在住
+- [佐野設計事務所（家業）](https://sano-design.info) ITなんでも担当
 - Pythonの勉強会とかによくいます
   - shizuoka.py
   - [Unagi.py](https://unagi-py.connpass.com/)
@@ -134,14 +135,16 @@ MSストアから手に入ります（MSアカウント必要）
 ディストリビューションのエクスポート/インポートもできる
 
 ```cmd
-wsl --list # インストール済みのディストリビューション一覧が出てくる
+# インストール済みのディストリビューション一覧
+wsl --list -v
+
   NAME            STATE           VERSION
 * Ubuntu-20.04    Running         2
   Legacy          Stopped         1
 
 wsl --export (ディストリビューション名) [ファイル名]
 # tarで固まったファイルができます
-# wsl --export Ubuntu-20.04 ub2004-wsl2-20200616
+# wsl --export Ubuntu-20.04 ub2004-wsl2-20200618
 
 ```
 
@@ -217,7 +220,7 @@ WSL(2)でインストールしたディストリビューションも一覧で�
 
 ---
 
-WSL2でターミナル環境を作って<br>
+Windows10のWSL2でターミナル環境を作って<br>
 快適なUnix生活を送ろう！
 
 ---
