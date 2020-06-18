@@ -18,13 +18,14 @@ shizuoka.php online #0 LT
 
 - 静岡県富士市在住
 - Pythonの勉強会とかによくいます
-  - `shizuoka.py
-  - Unagi.py
-  - Python駿河（結構います）
+  - shizuoka.py
+  - [Unagi.py](https://unagi-py.connpass.com/)
+  - [Python駿河](https://py-suruga.connpass.com/)（よくいます）
 
 ---
 
-Python駿河/Unagi.py は20日なので、ぜひご参加を！
+Python駿河/Unagi.py は20日です。<br>
+ぜひご参加を！
 
 [Unagi.py 勉強会30枚目～オンラインもくもく読書会～ - connpass](https://unagi-py.connpass.com/event/177428/)
 
@@ -87,7 +88,7 @@ MBP 16インチつよつよ構成は高いし...<br />
 
 ---
 
-Windows Subsystem for Linu2（WSL2）
+Windows Subsystem for Linux2（WSL2）
 
 正式リリース🎉
 
@@ -231,11 +232,25 @@ WSL2でターミナル環境を作って<br>
 
 ---
 
-WSL2 + VSCode の連携もやってみた
+大きい画面を手に入れたら、PowerToysのFancyZoneを設定しよう！
+
+[microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
 
 ---
 
-WSL2と VSCodeの連携は Remote-WSL拡張機能で実現できます
+![PowerToys FancyZone](./img/slideimg_6.jpg)
+
+---
+
+おまけ2
+
+---
+
+WSL2 + VS Code の連携もやってみた
+
+---
+
+WSL2とVS Codeの連携は Remote-WSL拡張機能で実現できます
 
 [Remote - WSL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 
@@ -246,29 +261,14 @@ WSL2と VSCodeの連携は Remote-WSL拡張機能で実現できます
 ---
 
 Win10開発環境にがっつり使えると思う！<br>
-WSL2とVSCodeで快適開発環境を目指そう！
+WSL2とVS Codeで快適開発環境を目指そう！
 
 ---
 
-ちなみに、VSCode + Remote-SSHも便利なのでおススメ！
+ちなみにVS Code + Remote-SSHも便利でおススメ！
 
 （Remote-Containerも便利だと思われます）
 
 ---
-
-おまけ2
-
----
-
-大きい画面を手に入れたら、PowerToysのFancyZoneを設定しよう！
-
-[microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
-
----
-
-![windows terminal](./img/slideimg_6.jpg)
-
----
-
 
 終わり
